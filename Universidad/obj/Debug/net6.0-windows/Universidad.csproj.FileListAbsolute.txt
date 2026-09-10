@@ -1,0 +1,36 @@
+C:\Users\rodri\Downloads\Clases\C#\UAI - Programacion Orientada a Objetos\universidad\Universidad\Universidad\bin\Debug\net6.0-windows\Universidad.exe
+C:\Users\rodri\Downloads\Clases\C#\UAI - Programacion Orientada a Objetos\universidad\Universidad\Universidad\bin\Debug\net6.0-windows\Universidad.deps.json
+C:\Users\rodri\Downloads\Clases\C#\UAI - Programacion Orientada a Objetos\universidad\Universidad\Universidad\bin\Debug\net6.0-windows\Universidad.runtimeconfig.json
+C:\Users\rodri\Downloads\Clases\C#\UAI - Programacion Orientada a Objetos\universidad\Universidad\Universidad\bin\Debug\net6.0-windows\Universidad.dll
+C:\Users\rodri\Downloads\Clases\C#\UAI - Programacion Orientada a Objetos\universidad\Universidad\Universidad\bin\Debug\net6.0-windows\Universidad.pdb
+C:\Users\rodri\Downloads\Clases\C#\UAI - Programacion Orientada a Objetos\universidad\Universidad\Universidad\obj\Debug\net6.0-windows\Universidad.csproj.AssemblyReference.cache
+C:\Users\rodri\Downloads\Clases\C#\UAI - Programacion Orientada a Objetos\universidad\Universidad\Universidad\obj\Debug\net6.0-windows\Universidad.Form1.resources
+C:\Users\rodri\Downloads\Clases\C#\UAI - Programacion Orientada a Objetos\universidad\Universidad\Universidad\obj\Debug\net6.0-windows\Universidad.csproj.GenerateResource.cache
+C:\Users\rodri\Downloads\Clases\C#\UAI - Programacion Orientada a Objetos\universidad\Universidad\Universidad\obj\Debug\net6.0-windows\Universidad.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rodri\Downloads\Clases\C#\UAI - Programacion Orientada a Objetos\universidad\Universidad\Universidad\obj\Debug\net6.0-windows\Universidad.AssemblyInfoInputs.cache
+C:\Users\rodri\Downloads\Clases\C#\UAI - Programacion Orientada a Objetos\universidad\Universidad\Universidad\obj\Debug\net6.0-windows\Universidad.AssemblyInfo.cs
+C:\Users\rodri\Downloads\Clases\C#\UAI - Programacion Orientada a Objetos\universidad\Universidad\Universidad\obj\Debug\net6.0-windows\Universidad.csproj.CoreCompileInputs.cache
+C:\Users\rodri\Downloads\Clases\C#\UAI - Programacion Orientada a Objetos\universidad\Universidad\Universidad\obj\Debug\net6.0-windows\Universidad.dll
+C:\Users\rodri\Downloads\Clases\C#\UAI - Programacion Orientada a Objetos\universidad\Universidad\Universidad\obj\Debug\net6.0-windows\refint\Universidad.dll
+C:\Users\rodri\Downloads\Clases\C#\UAI - Programacion Orientada a Objetos\universidad\Universidad\Universidad\obj\Debug\net6.0-windows\Universidad.pdb
+C:\Users\rodri\Downloads\Clases\C#\UAI - Programacion Orientada a Objetos\universidad\Universidad\Universidad\obj\Debug\net6.0-windows\Universidad.genruntimeconfig.cache
+C:\Users\rodri\Downloads\Clases\C#\UAI - Programacion Orientada a Objetos\universidad\Universidad\Universidad\obj\Debug\net6.0-windows\ref\Universidad.dll
+C:\Users\Usuario\Desktop\Universidad\Universidad\bin\Debug\net6.0-windows\Universidad.exe
+C:\Users\Usuario\Desktop\Universidad\Universidad\bin\Debug\net6.0-windows\Universidad.deps.json
+C:\Users\Usuario\Desktop\Universidad\Universidad\bin\Debug\net6.0-windows\Universidad.runtimeconfig.json
+C:\Users\Usuario\Desktop\Universidad\Universidad\bin\Debug\net6.0-windows\Universidad.dll
+C:\Users\Usuario\Desktop\Universidad\Universidad\bin\Debug\net6.0-windows\Universidad.pdb
+C:\Users\Usuario\Desktop\Universidad\Universidad\obj\Debug\net6.0-windows\Universidad.csproj.AssemblyReference.cache
+C:\Users\Usuario\Desktop\Universidad\Universidad\obj\Debug\net6.0-windows\Universidad.Form1.resources
+C:\Users\Usuario\Desktop\Universidad\Universidad\obj\Debug\net6.0-windows\Universidad.csproj.GenerateResource.cache
+C:\Users\Usuario\Desktop\Universidad\Universidad\obj\Debug\net6.0-windows\Universidad.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Desktop\Universidad\Universidad\obj\Debug\net6.0-windows\Universidad.AssemblyInfoInputs.cache
+C:\Users\Usuario\Desktop\Universidad\Universidad\obj\Debug\net6.0-windows\Universidad.AssemblyInfo.cs
+C:\Users\Usuario\Desktop\Universidad\Universidad\obj\Debug\net6.0-windows\Universidad.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\Universidad\Universidad\obj\Debug\net6.0-windows\Universidad.dll
+C:\Users\Usuario\Desktop\Universidad\Universidad\obj\Debug\net6.0-windows\refint\Universidad.dll
+C:\Users\Usuario\Desktop\Universidad\Universidad\obj\Debug\net6.0-windows\Universidad.pdb
+C:\Users\Usuario\Desktop\Universidad\Universidad\obj\Debug\net6.0-windows\Universidad.genruntimeconfig.cache
+C:\Users\Usuario\Desktop\Universidad\Universidad\obj\Debug\net6.0-windows\ref\Universidad.dll
+C:\Users\Usuario\Desktop\Universidad\Universidad\obj\Debug\net6.0-windows\Interop.VBIDE.dll
+C:\Users\Usuario\Desktop\Universidad\Universidad\obj\Debug\net6.0-windows\Universidad.csproj.ResolveComReference.cache
